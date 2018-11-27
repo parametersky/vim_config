@@ -6,6 +6,9 @@ set nu
 set hlsearch
 set ts=4
 set expandtab
+set autoindent
+set tabstop=4
+set shiftwidth=4
 map <C-n> :NERDTree<CR>
 
 " pathongen
